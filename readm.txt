@@ -3,3 +3,4 @@ git is free software
 Create a new branch is quick and simple
 add merge
 add merge1
+add merge2
