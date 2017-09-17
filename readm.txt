@@ -7,4 +7,4 @@ add merge2
 add merge3
 add merge4
 bug
-test pull delete dev
+test pull delete dev  add learngit1
