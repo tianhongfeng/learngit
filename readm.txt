@@ -8,3 +8,6 @@ add merge3
 add merge4
 bug
 test pull delete dev  add learngit2 test pull merge
+test pull
+test reset merge
+
