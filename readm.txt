@@ -8,3 +8,4 @@ add merge3
 add merge4
 bug
 test pull
+test reset merge
